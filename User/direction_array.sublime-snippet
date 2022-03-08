@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+/////direction_array///////
+#define valid(nx,ny) nx>=1 && nx<=row && ny>=1 && ny<=col
+int fx1[]={+1,-1,+0,+0};//straight
+int fy1[]={+0,+0,+1,-1};
+int fx2[]={+0,+0,+1,-1,-1,+1,-1,+1};//and diagonally
+int fy2[]={-1,+1,+0,+0,+1,+1,-1,-1};
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>dir_array</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c++</scope>
+</snippet>

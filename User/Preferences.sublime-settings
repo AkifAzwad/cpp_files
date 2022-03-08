@@ -1,0 +1,10 @@
+{
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	// "color_scheme": "Packages/Color Scheme - Default/Breakers.sublime-color-scheme",
+	"theme": "Default Dark.sublime-theme",
+	"color_scheme": "Mariana.sublime-color-scheme",
+}

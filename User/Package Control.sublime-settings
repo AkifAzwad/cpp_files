@@ -1,0 +1,12 @@
+{
+	"bootstrapped": true,
+	"installed_packages":
+	[
+		"Package Control",
+		"PackageResourceViewer",
+		"SublimeAStyleFormatter",
+	],
+	"in_process_packages":
+	[
+	],
+}

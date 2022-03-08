@@ -1,0 +1,34 @@
+<snippet>
+	<content><![CDATA[
+#include "bits/stdc++.h" 
+using namespace std;
+
+
+/////////data types/////////
+using ll = long long;
+
+
+/////////constants/////////
+//const int mod = 1e9 + 7;
+
+
+//////////methods//////////
+
+
+///////////////////////////
+int main()
+{
+
+	ios_base::sync_with_stdio(0); 
+	cin.tie(0);
+
+	$1
+
+	return 0;
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>cpp</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c++</scope>
+</snippet>
